@@ -1,2 +1,2 @@
 # JspSimpleCrud
-Servlet, JSP, JSTL
+Servlet, JSP, JSTL, HTML, CSS.
