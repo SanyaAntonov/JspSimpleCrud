@@ -1,2 +1,2 @@
 # JspSimpleCrud
-Servlet, JSP, JSTL, HTML, CSS.
+Lambda, Stream API, Servlet, JSP, JSTL, HTML, CSS.
